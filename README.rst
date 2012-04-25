@@ -24,3 +24,7 @@ http://images.kenwood.eu/files/images/products/product_id_257/file_category_4/ke
 
 Datasheet with PC-Control-Commands for Yaesu FT2000
 http://www.yaesu.com/downloadFile.cfm?FileID=3973&FileCatID=158&FileName=FT%2D2000%5FCAT%5FMANUAL%5FENG%5FEH025H124.pdf&FileContentType=application%2Fpdf
+
+Links
+=====
+http://hamlib.sourceforge.net/ found now a c library that can do all we need (and more)
